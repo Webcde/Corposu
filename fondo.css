@@ -1,0 +1,12 @@
+body{margin:0;
+padding:0;
+background: url(Fondo.JPEG);
+background-size: cover;
+background-position: center;
+font-family:sans-serif;
+}
+
+
+.rell {
+    border: thin none #FFFFFF;
+}
